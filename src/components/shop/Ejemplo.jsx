@@ -5,7 +5,7 @@ const Ejemplo = () => (
   <section>
     <div>
       <p>
-        Este es el segundo ejemplo y así les mostraré como funciona agragar más
+        Este es el segundo ejemplo y así les mostraré como funciona agregar más
         de un componente a nuestro App.jsx
       </p>
     </div>
