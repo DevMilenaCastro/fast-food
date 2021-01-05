@@ -8,6 +8,7 @@ const Ejemplo = () => (
         Este es el segundo ejemplo y así les mostraré como funciona agregar más
         de un componente a nuestro App.jsx
       </p>
+      <p>putting my changes</p>
     </div>
   </section>
 );
